@@ -6,6 +6,8 @@
   <a href="https://greenkeeper.io/"><img src="https://badges.greenkeeper.io/framework7io/Framework7.svg" alt="Greenkeeper"></a>
 </p>
 
-<h1 align="center">Framework7</h1>
+## whats that project
 
-<p align="center">Full Featured Mobile HTML Framework For Building iOS & Android Apps</p>
+this framework7 project give user basic datatable to crud.
+-create & update parts re in each slider and also has pagination 
+
