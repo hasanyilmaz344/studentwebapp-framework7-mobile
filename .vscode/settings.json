@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.enable": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "svelte",
+    "typescript"
+  ],
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  }
+}
